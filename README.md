@@ -20,7 +20,7 @@ This **Power BI dashboard** analyzes **Zomato’s sales performance, user demogr
 ## 📊 Dashboard Snapshots  
 | **Sales Trends** | **City-Wise Performance** | **User Demographics** |  
 |----------------|----------------------|----------------|  
-| ![Sales Trends](https://github.com/darshanacharya045/Zomato-PowerBI-Sales-Analytics/blob/main/Zomato-PowerBI-Sales-Analytics.jpeg?raw=true) | ![City Performance](https://github.com/darshanacharya045/Zomato-PowerBI-Sales-Analytics/blob/main/Zomato-PowerBI-Sales-Analytics_city.jpeg?raw=true)) | ![User Demographics](https://github.com/darshanacharya045/Zomato-PowerBI-Sales-Analytics/blob/main/Zomato-PowerBI-Sales-Analytics_user.jpeg?raw=true)) |  
+| ![Sales Trends](https://github.com/darshanacharya045/Zomato-PowerBI-Sales-Analytics/blob/main/Zomato-PowerBI-Sales-Analytics.jpeg?raw=true) | ![City Performance](https://github.com/darshanacharya045/Zomato-PowerBI-Sales-Analytics/blob/main/Zomato-PowerBI-Sales-Analytics_city.jpeg?raw=true) | ![User Demographics](https://github.com/darshanacharya045/Zomato-PowerBI-Sales-Analytics/blob/main/Zomato-PowerBI-Sales-Analytics_user.jpeg?raw=true) |  
 
 ## 🔧 Installation & Setup  
 ### **1️⃣ Download Files**  
