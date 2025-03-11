@@ -10,11 +10,6 @@ This **Power BI dashboard** analyzes **Zomato’s sales performance, user demogr
 ✅ **Product Performance Tracking** – Analyzes **Veg (106M), Non-Veg (122M), and Other (24M) sales**  
 ✅ **Customer Ratings & Retention Analysis** – Highlights **rating trends (148K reviews) and active user retention**  
 
-## 📂 Project Files  
-- `Zomato_PowerBI_Sales_Report.pbix` → Power BI report file  
-- `sales_data.csv` → Sales dataset  
-- `user_data.csv` → User demographics dataset  
-- `city_sales.csv` → Regional sales trends  
 
 ## 🛠️ Tools & Technologies Used  
 - **Power BI** → Data visualization & analytics  
@@ -25,7 +20,7 @@ This **Power BI dashboard** analyzes **Zomato’s sales performance, user demogr
 ## 📊 Dashboard Snapshots  
 | **Sales Trends** | **City-Wise Performance** | **User Demographics** |  
 |----------------|----------------------|----------------|  
-| ![Sales Trends](https://github.com/darshanacharya045/Zomato-PowerBI-Sales-Analytics/blob/main/Zomato-PowerBI-Sales-Analytics.jpeg?raw=true) | ![City Performance](Reports/Dashboard_Snapshots/city_performance.png) | ![User Demographics](Reports/Dashboard_Snapshots/user_demographics.png) |  
+| ![Sales Trends](https://github.com/darshanacharya045/Zomato-PowerBI-Sales-Analytics/blob/main/Zomato-PowerBI-Sales-Analytics.jpeg?raw=true) | ![City Performance]([Reports/Dashboard_Snapshots/city_performance.png](https://github.com/darshanacharya045/Zomato-PowerBI-Sales-Analytics/blob/main/Zomato-PowerBI-Sales-Analytics_city.jpeg?raw=true)) | ![User Demographics]([Reports/Dashboard_Snapshots/user_demographics.png](https://github.com/darshanacharya045/Zomato-PowerBI-Sales-Analytics/blob/main/Zomato-PowerBI-Sales-Analytics_user.jpeg?raw=true)) |  
 
 ## 🔧 Installation & Setup  
 ### **1️⃣ Download Files**  
